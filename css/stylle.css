@@ -13,7 +13,6 @@
 body{
     color:var(--color-grimery);
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
     font-size: 16px;
     background-color:var(--backraundcolor-body)
 }
@@ -29,7 +28,6 @@ a {
     font-size: 18px;
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
-    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -66,7 +64,6 @@ a {
 }
 .hero-title{
     color:var(--color-hero-title-text);
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -105,7 +102,6 @@ background-color: var(--color-brend-hover);
 }
 .title-sections{
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
@@ -151,7 +147,6 @@ color:var(--color-brend);
 text-decoration: none;
 font-family: 'Raleway',sans-serif;
 font-size: 18px;
-font-weight: 700;
 line-height: 21px;
 text-transform: uppercase;
 line-height: 1.17;
